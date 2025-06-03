@@ -27,12 +27,12 @@ document.addEventListener("DOMContentLoaded", function () {
     // Liste des images et descriptions  ********************************************INSERTIONS DES IMAGES ET DESCRIPTIONS ***************************************************
     // Images et descriptions à insérer dans le diaporama
     let images = [
-        "photo1.jpg", "photo2.jpg", "photo3.jpg",
+        "photo1.jpg", "photo2.jpg", "photo3.jpg"
         // Ajoutez d'autres images si nécessaire
     ];
     
     let descriptions = [
-        "Description de la photo 1", "Description de la photo 2", "Description de la photo 3",
+        "Description de la photo 1", "Description de la photo 2", "Description de la photo 3"
     ];
 
     // Création du diaporama   *********************************************CRÉATION DU DIAPORAMA *************************************************** 
